@@ -1,5 +1,5 @@
 """This code receives a txt file of FASTA sequence and returns the locations of the palindromic sequences
- and their length (from 4-12)"""
+ and their length (from 4-12)."""
 
 fasta_file = open("fasta_file.txt","r")
 fasta_file = fasta_file.readlines()
